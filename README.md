@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Studying at UPN Veteran Jawa Timur.<br>
-👯 Open to collaborating on software development-related graphic design projects.<br>
+👯 Open to collaborating on software development.<br>
 🤝 Seeking assistance to develop an Android app integrated with AI.<br>
 🌱 Currently learning Kotlin<br>💬 Ask me about Android development.<br>
 ⚡ Fun fact - I adore cats!
